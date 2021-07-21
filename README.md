@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @therohit1
-- 👀 I’m interested in Data Science, Data Analysis, Machine Learning.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on the ML projects.
 - 📫 How to reach me mr.waghmarerohit@gmail.com
 
 <!---
